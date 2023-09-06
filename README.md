@@ -1,6 +1,6 @@
 <div>
 <h2 align="center">
-    <img src="./MyGif.gif"/ width="100%"> 
+    <img src="./MyGif.gif"/ width="80%"> 
     </h2> 
     <br/><br/>   
     <div align="center">      
