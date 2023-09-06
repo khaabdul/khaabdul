@@ -1,15 +1,16 @@
 <div>
-<h2 align="center"></h2> 
-    <img src="./MyGif.gif"/>  
+<h2 align="center">
+    <img src="./MyGif.gif"/> 
+    </h2> 
     <br/><br/>   
     <div align="center">      
-    <a href="https://www.linkedin.com/in/manish-parashar-3b119a243">
+    <a href="https://www.linkedin.com/in/abdul-rehman-khan-/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=LinkedIn&message= &style=flat&logo=linkedin&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://youtube.com/@manishparashar4935">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=youtube&message= &style=flat&logo=youtube&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="https://instagram.com/manish_parashar__?igshid=MzNlNGNkZWQ4Mg==">
+    <a href="https://www.instagram.com/_k._abdul_/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=instagram&message= &style=flat&logo=instagram&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,7 +18,7 @@
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=Project&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
          </a>&nbsp;&nbsp;&nbsp;&nbsp; 
-     <a href="https://manishparashar0.github.io/Portfolio.manish/">
+     <a href="https://khaabdul.github.io/portfolio/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
     </div>
