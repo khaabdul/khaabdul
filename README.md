@@ -1,3 +1,4 @@
+<div>
 <h2 align="center"></h2> 
     <img src="./MyGif.gif"/>  
     <br/><br/>   
@@ -19,6 +20,7 @@
      <a href="https://manishparashar0.github.io/Portfolio.manish/">
       <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=black&label=portfolio&message= &style=flat&&logo=amp&logoColor=939B62&labelColor=black">
     </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </div>
 # 💫 About Me:
 🔭 I’m currently working on Spring Boot Project<br>🤝 I’m looking for help with My colleague <br>🌱 I’m currently learning Java Spring boot,Spring MVC,Hibernate,SQL<br>💬 Ask me about Java,Web Development
 
